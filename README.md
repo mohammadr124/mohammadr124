@@ -10,7 +10,7 @@
 
 - 🔭 در حال کار روی پروژه‌های React و Node.js هستم  
 - 🌱 در حال یادگیری معماری بک‌اند پیشرفته و سیستم‌های real-time  
-- 💬 از من درباره JavaScript، React، Node.js، Socket.io و PHP بپرس  
+- 💬 از من درباره JavaScript، React، Node.js، Socket.io بپرس  
 - ⚡ عاشق ساخت UI تمیز و بک‌اندهای بهینه و سریع هستم  
 
 ---
@@ -41,7 +41,7 @@
 
 - ساخت اپلیکیشن‌های real-time با Socket.io  
 - طراحی APIهای مقیاس‌پذیر  
-- کار با PHP در پروژه‌های بک‌اند  
+-   
 - Docker برای مدیریت و دیپلوی پروژه‌ها  
 - UI تمیز با React و Tailwind  
 
