@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 سلام، من محمد هستم
 
-<!--
-**mohammadr124/mohammadr124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 توسعه‌دهنده فرانت‌اند / فول‌استک  
+🚀 علاقه‌مند به ساخت اپلیکیشن‌های مدرن و مقیاس‌پذیر  
+📍 ساکن استان فارس  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 درباره من
+
+- 🔭 در حال کار روی پروژه‌های React و Node.js هستم  
+- 🌱 در حال یادگیری معماری بک‌اند پیشرفته و سیستم‌های real-time  
+- 💬 از من درباره JavaScript، React، Node.js، Socket.io و PHP بپرس  
+- ⚡ عاشق ساخت UI تمیز و بک‌اندهای بهینه و سریع هستم  
+
+---
+
+## 🛠️ تکنولوژی‌ها
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,mongodb,postgres,git,github" />
+</p>
+
+
+---
+
+## 📊 آمار گیت‌ها
+## 📊 آمار گیت‌ها
+
+<p align="center">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadr124)
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadr124&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🚀 تمرکز فعلی
+
+- ساخت اپلیکیشن‌های real-time با Socket.io  
+- طراحی APIهای مقیاس‌پذیر  
+- کار با PHP در پروژه‌های بک‌اند  
+- Docker برای مدیریت و دیپلوی پروژه‌ها  
+- UI تمیز با React و Tailwind  
+
+---
+
+## 📫 راه‌های ارتباطی
+
+- ایمیل: mohammadrhmani288@gmail.com  
+- گیت‌هاب: https://github.com/mohammadr124    
+
+---
+
+⭐ ممنون که پروفایلم رو دیدی!
