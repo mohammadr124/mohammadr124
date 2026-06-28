@@ -46,7 +46,4 @@
 
 - ایمیل: mohammadrhmani288@gmail.com  
 - گیت‌هاب: https://github.com/mohammadr124    
-
----
-
-⭐ ممنون که پروفایلم رو دیدی!
+یلم رو دیدی!
